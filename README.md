@@ -16,10 +16,17 @@ Anaconda's jupyter notebook
 
 ### Program Details
 
+<<<<<<< HEAD
 It uses supervised learning on a dataset to predict the possible donors for the charity
 according to many factors as: age, workclass, education, education num, marital status, etc....
 This is done using a classification model, and this model must be the best one for predicting according
 to this dataset, so by trying lots of supervised learning classifiers we got our best model to solve this
+=======
+It uses supervised learning on a dataset to predict the possible donors for the charity 
+according to many factors as: age, workclass, education, education num, marital status, etc....
+This is done using a classification model, and this model must be the best one for predicting according 
+to this dataset, so by trying lots of supervised learning classifiers we got our best model to solve this 
+>>>>>>> a73fc13a217ce82f1d1c4c7cb9a89f26d0a9d870
 problem by least error and short period of time.
 the most factor that's  token in consideration while choosing our model is:
 
@@ -36,7 +43,10 @@ These calculations are so helpful to determine the best model for this problem.
 
 * Language: Python 3.8
 * Libraries: pandas, numpy, time, sys, IPython, matplotlib
+<<<<<<< HEAD
 * visuals.py: module provided from Udacity
+=======
+>>>>>>> a73fc13a217ce82f1d1c4c7cb9a89f26d0a9d870
 
 # Project Data
 
